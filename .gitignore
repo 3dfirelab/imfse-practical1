@@ -1,4 +1,4 @@
-.pynb*
+.pynb_*
 #gvim 
 *.bak
 *.swp
